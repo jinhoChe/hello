@@ -3,7 +3,7 @@ for i in range(50):
     print(i)
     print(f'{i+1}.hello world')
     print('짜장면이냐 짬뽕이냐?')
-    a =print
+    a =input
     print(f'니가 입력한 값: {a}')
     menu = '짜장' , '짬뽕'
     if a =='짜장' or a == '짬뽕':
